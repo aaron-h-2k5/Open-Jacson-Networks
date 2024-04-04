@@ -1,4 +1,4 @@
-# Series Queues with infinite capacity - Open Jackson Network
+# Ex-6 Series Queues with infinite capacity - Open Jackson Network
 ### Developed by: H. AARON
 ### Register number: 212223040001
 ## Aim :
